@@ -1,4 +1,4 @@
-Agregar un Dominio al Drop en Digital Ocean
+Agregar un Dominio al Droplet en Digital Ocean
 ===
 
 ## Definición
@@ -16,11 +16,11 @@ En nuestro caso compramos un dominio en <a href="https://neubox.com/">newubox</a
 En este caso los de *digitalOcean* que son siempre los mismos.
 
 <p align="center">
-	<img src="imgs/img1.png" width="1384px" height="720px">
+	<img src="imgs/img1.png" width="682px" height="360px">
 </p>
 
 <p align="center">
-	<img src="imgs/img2.png" width="1415px" height="731px">
+	<img src="imgs/img2.png" width="707px" height="765px">
 </p>
 
 ```
