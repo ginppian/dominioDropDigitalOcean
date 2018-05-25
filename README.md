@@ -53,3 +53,7 @@ nuestro droplet > add domain > more > manage domain > DNS Records
 </p>
 
 Nota: Si nuestro dominio ya está asociado a otra cuenta de DigitalOcean no nos dejará asociarlo a nuestro nuevo droplet, es necesario acceder a nuestra anterior cuenta y desasociar el nombre de dominio.
+
+### Fuentes
+
+* <a href="https://www.youtube.com/watch?v=7itQ-AXiM5o">Digital Ocean add your own domain</a> 
