@@ -20,7 +20,7 @@ En este caso los de *digitalOcean* que son siempre los mismos.
 </p>
 
 <p align="center">
-	<img src="imgs/img2.png" width="707px" height="765px">
+	<img src="imgs/img2.png" width="708px" height="365px">
 </p>
 
 ```
